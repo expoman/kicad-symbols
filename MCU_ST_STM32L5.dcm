@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP STM32L552RE
+D ARM Cortex-M33 MCU, 2048KB flash, 512KB RAM, 110MHz, 1.71-3.6V, 83 GPIO, LQFP-100
+K ARM Cortex-M33 STM32L5+ STM32L5
+F https://www.st.com/resource/en/reference_manual/dm00346336.pdf
+$ENDCMP
+#
+#End Doc Library
